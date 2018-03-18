@@ -1,0 +1,12 @@
+[user]
+	name = Shen Wang
+	email = wsh4346@gmail.com
+[color]
+	ui = auto
+[alias]
+	c = commit
+	s = status
+	co = checkout
+	b = branch
+	l = log
+	wc = whatchanged
